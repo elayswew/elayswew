@@ -1,9 +1,9 @@
 ### Hi there 👋, this is Wen-Yi (Elayne)
 
 - Quick overview:
-  <pre>🎓 UCLA, Business Economics major
-  <pre>Santa Monica College - Certificate of Achievement in Data Science
-  <pre>📖 In Progress: Irvine Valley College - Certificate of Achievement in Web Authoring
+<pre> 🎓 UCLA, Business Economics major
+<pre> Santa Monica College - Certificate of Achievement in Data Science
+<pre> 📖 In Progress: Irvine Valley College - Certificate of Achievement in Web Authoring
 
 - Current Project
 
