@@ -13,8 +13,8 @@ on the technical side.
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · R · SQL · Java · C++
-**ML / Data:** scikit-learn · PyTorch · pandas · NLP · LLM / RAG
+**Languages:** Python · R · SQL · Java · C++ <br>
+**ML / Data:** scikit-learn · PyTorch · pandas · NLP · LLM / RAG <br>
 **Tools:** AWS (SageMaker, Lambda) · SQLite · Git · Tableau
 
 ---
