@@ -21,12 +21,16 @@ on the technical side.
 
 ### 📌 Featured Projects
 
-**[Stock High/Low Prediction Pipeline](https://github.com/elayswew/stock-prediction-pipeline)**
+**[Receipt Total Extraction](https://github.com/elayswew/receipt-extraction)** — PaddleOCR + MLP Ranker <br>
+A lightweight OCR + ranking pipeline that extracts the grand total from receipt images,
+as a cost-effective alternative to end-to-end document transformers. Benchmarked against
+Donut on CORD-v2, with oracle-recall analysis to identify the OCR bottleneck and
+class-imbalance handling in the ranker.
+
+**[Stock High/Low Prediction Pipeline](https://github.com/elayswew/stock-prediction-pipeline)** — Python · scikit-learn <br>
 End-to-end ML pipeline: data ingestion (API → SQLite), feature engineering,
 time-series model selection, and prediction. Built with attention to leakage-free
 validation and honest evaluation of model limitations.
-
-*(More projects coming soon)*
 
 ---
 
