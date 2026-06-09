@@ -21,6 +21,12 @@ on the technical side.
 
 ### 📌 Featured Projects
 
+**[Financial Document Q&A (RAG)](https://github.com/elayswew/financial-rag)** — LangChain · OpenAI · Chroma <br>
+A retrieval-augmented generation system that answers questions about SEC 10-K filings,
+grounded in the source document with guardrails against hallucination (it refuses to
+answer what isn't in the filing). Includes an LLM-as-a-judge evaluation harness to
+measure answer accuracy.
+
 **[Receipt Total Extraction](https://github.com/elayswew/receipt-extraction)** — PaddleOCR + MLP Ranker <br>
 A lightweight OCR + ranking pipeline that extracts the grand total from receipt images,
 as a cost-effective alternative to end-to-end document transformers. Benchmarked against
